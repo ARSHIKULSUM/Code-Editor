@@ -1,0 +1,32 @@
+
+
+
+
+.editorOuter{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(0, 0, 0);
+}
+
+
+.imgone{
+  background-color: rgb(220, 84, 84);
+  align-self: center;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgtwo{
+    background-color: rgb(139, 227, 242);
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgthree{
+    background-color: rgb(246, 246, 178);
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
